@@ -33,7 +33,6 @@
 <p align="left">
   <a href="https://github.com/emirhantavus"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30"></a>
   <a href="https://www.linkedin.com/in/emirhantavus/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30"></a>
-  <a href="https://www.instagram.com/emirhantavus17/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30"></a>
   <a href="https://emirhantavusfitness.me"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="website" height="30"></a>
 </p>
 
