@@ -22,7 +22,7 @@
 ### 📌 Currently...
 
 - 🔭 Working on: **NestJS API development**
-- 🌱 Learning: **AWS**, **Kubernetes**, and DevOps
+- 🌱 Learning: **AWS**, **Kubernetes**
 - 💬 Ask me about: **Backend development, API design**
 - 📫 Reach me at: **emirhantavus17@gmail.com**
 
