@@ -1,7 +1,7 @@
-### Hi there 👋, I'm Emirhan Tavus
-#### Junior Backend Developer
+### 👋 Hi there, I'm Emirhan Tavus  
+#### 🛠 Junior Backend Developer  
 
-🚀 Passionate about building scalable backend systems, automating deployments, and writing clean, maintainable code.
+🚀 I enjoy building backend applications using Python. I'm always trying to write clean and simple code.
 
 ---
 
@@ -9,31 +9,44 @@
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
-### 📌 Currently...
+### 🌱 Learning
 
-- 🔭 Working on: **NestJS API development**
-- 🌱 Learning: **AWS**, **Kubernetes**
-- 💬 Ask me about: **Backend development, API design**
-- 📫 Reach me at: **emirhantavus17@gmail.com**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-grey?style=for-the-badge&logo=linux&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
-### 🌐 Connect With Me
+### 📌 Focus Areas
+
+I work mainly with Django to build clean and reliable REST APIs.  
+I'm improving my skills in testing, debugging, and code quality.  
+I'm also learning to deploy and manage my projects using Docker and GitHub Actions.
+
+---
+
+### 📫 Contact
 
 <p align="left">
-  <a href="https://github.com/emirhantavus"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30"></a>
-  <a href="https://www.linkedin.com/in/emirhantavus/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30"></a>
-  <a href="https://emirhantavusfitness.me"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="website" height="30"></a>
+  <a href="mailto:emirhantavus17@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+  <a href="https://github.com/emirhantavus" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://www.linkedin.com/in/emirhantavus/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://emirhantavusfitness.me" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="website" />
+  </a>
 </p>
 
 ---
@@ -45,3 +58,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirhantavus&layout=compact&hide=Jupyter%20Notebook,C%23&theme=radical)
 
 ![GitHub streak](https://streak-stats.demolab.com?user=emirhantavus&theme=radical)
+
+---
