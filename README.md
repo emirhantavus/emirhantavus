@@ -19,6 +19,7 @@
 ### 🌱 Learning
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-grey?style=for-the-badge&logo=linux&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
@@ -46,6 +47,10 @@ I'm also learning to deploy and manage my projects using Docker and GitHub Actio
   </a>
   <a href="https://emirhantavusfitness.me" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="website" />
+  </a>
+  </a>
+  <a href="https://leetcode.com/u/OfELMBDopt" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" />
   </a>
 </p>
 
